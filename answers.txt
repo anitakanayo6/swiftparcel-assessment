@@ -32,9 +32,12 @@ Given that I need to place an order so that  When I track it using the tracking 
 #Ticket 2: Unknown tracking number shows a helpful message
 #User story:
 
+As a user When i get an unknown number for tracking my parcel  I'm expecting to get a helpful message
+
 
 #Acceptance criteria:
 
+Given the unknown number for tracking my order When I use that Number that is unknown Then I'm expecting to be shown a helpful message
 
 === Question 2.1 (4 marks) ===
 #Answer below
